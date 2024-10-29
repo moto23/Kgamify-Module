@@ -1,0 +1,15 @@
+.btn-primary:hover {
+    color: inherit;
+    background-color: inherit;
+    border-color: inherit;
+}
+
+.no-hover:hover {
+    color: inherit;
+    background-color: inherit;
+    border-color: inherit;
+  }
+
+  button.btn-primary:hover {
+    color: black; /* New text color */
+}
